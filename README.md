@@ -6,7 +6,7 @@ Forked from : https://github.com/LGTMCU/Larduino_HSP
 ### Modifications in this fork :
 - [X] added 32MHz boards definitions
 - [X] defined missing LED_BUILTIN
-- [] automatic clock prescaler according to F_CPU
+- [ ] automatic clock prescaler according to F_CPU
 
 ### Task status
 
