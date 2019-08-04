@@ -1,6 +1,12 @@
 ### Ardunio Hardware Support Package for LGT8F's 
 ##
 
+Forked from : https://github.com/LGTMCU/Larduino_HSP
+
+### Modifications in this fork :
+- [X] added 32MHz boards definitions
+- [X] defined missing LED_BUILTIN
+
 ### Task status
 
 - [x] PWM & Timers update
